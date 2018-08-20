@@ -1,0 +1,30 @@
+[
+  {
+    "name": "dark",
+    "background": "#080808",
+    "backgroundElevated": "#222",
+    "text": "#CCC",
+    "primary": "#09F"
+  },
+  {
+    "name": "one-dark",
+    "background": "#282C34",
+    "backgroundElevated": "#3B4048",
+    "text": "#ABB2BF",
+    "primary": "#61AFEF"
+  },
+  {
+    "name": "low-contrast",
+    "background": "#222",
+    "backgroundElevated": "#444",
+    "text": "#999",
+    "primary": "#FFF"
+  },
+  {
+    "name": "navy",
+    "background": "#225",
+    "backgroundElevated": "#114",
+    "text": "#CCC",
+    "primary": "#CCC"
+  }
+]
