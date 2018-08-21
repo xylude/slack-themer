@@ -30,7 +30,7 @@ if(index.indexOf('/*-- BEGIN IMPLANT --*/') < 0) {
 	index = index + `\n${themeJs}`
 }
 
-fs.writeFileSync(INTEROP_LOCATION, interOp);
-fs.writeFileSync(INDEX_LOCATION, index);
+fs.writeFileSync(OSX_INTEROP_LOCATION, interOp);
+fs.writeFileSync(OSX_INDEX_LOCATION, index);
 
 console.log('installed.');

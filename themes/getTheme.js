@@ -25,7 +25,7 @@ div.c-message__content:hover {
 div.c-message:hover {
 	background-color: ${background} !important;
 }
-span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption, div.p-message_pane__foreword__description span
+span.c-message__body, .c-message_attachment__body, a.c-message__sender_link, span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--caption, div.p-message_pane__foreword__description span
 {
 	color: ${text} !important;
 }
